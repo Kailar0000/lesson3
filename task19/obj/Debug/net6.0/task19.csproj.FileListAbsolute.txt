@@ -1,0 +1,15 @@
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+F:\Учеба\lesson3\task19\bin\Debug\net6.0\task19.exe
+F:\Учеба\lesson3\task19\bin\Debug\net6.0\task19.deps.json
+F:\Учеба\lesson3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+F:\Учеба\lesson3\task19\bin\Debug\net6.0\task19.dll
+F:\Учеба\lesson3\task19\bin\Debug\net6.0\task19.pdb
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.dll
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\refint\task19.dll
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.pdb
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+F:\Учеба\lesson3\task19\obj\Debug\net6.0\ref\task19.dll
